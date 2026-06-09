@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Models (large files)
+models/
+training/
+
+# Environment files
+.env
+
+# IDE
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Anaconda
+anaconda_projects/
